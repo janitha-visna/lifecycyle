@@ -1,0 +1,5 @@
+{
+  "name": "CertCycle Manager",
+  "description": "Enterprise certification lifecycle management system with document storage integration, auditing tools, and stage tracking.",
+  "requestFramePermissions": []
+}
